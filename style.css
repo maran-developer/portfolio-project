@@ -1,0 +1,26 @@
+
+/* navbar style */
+nav>ul>li>a{
+    color: white;
+}
+nav>ul>li>a:hover{
+    border-bottom: 3px solid  rgb(208,23,184);
+    color: rgb(208,23,184);
+    
+}
+.home,.about,.skills,.contact{
+    box-shadow: 2px 2px 8px 8px white;
+     
+
+}
+
+
+.progress{
+    height: 20px;
+}
+
+
+/* .img{
+    height: 400px;
+
+} */
